@@ -1,0 +1,9 @@
+For local run:
+
+install NeDB via
+npm install nedb --save
+
+Run:
+node app.js
+
+After run sample database will contain generated data & history of changes
